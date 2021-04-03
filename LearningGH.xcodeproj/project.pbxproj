@@ -11,6 +11,7 @@
 		708D5E4E2617EC4200396BD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 708D5E4D2617EC4200396BD0 /* ContentView.swift */; };
 		708D5E502617EC4400396BD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 708D5E4F2617EC4400396BD0 /* Assets.xcassets */; };
 		708D5E532617EC4400396BD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 708D5E522617EC4400396BD0 /* Preview Assets.xcassets */; };
+		708D5E5C2617F1B200396BD0 /* Mymodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 708D5E5B2617F1B200396BD0 /* Mymodel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		708D5E4F2617EC4400396BD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		708D5E522617EC4400396BD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		708D5E542617EC4400396BD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		708D5E5B2617F1B200396BD0 /* Mymodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mymodel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				708D5E4F2617EC4400396BD0 /* Assets.xcassets */,
 				708D5E542617EC4400396BD0 /* Info.plist */,
 				708D5E512617EC4400396BD0 /* Preview Content */,
+				708D5E5B2617F1B200396BD0 /* Mymodel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				708D5E5C2617F1B200396BD0 /* Mymodel.swift in Sources */,
 				708D5E4E2617EC4200396BD0 /* ContentView.swift in Sources */,
 				708D5E4C2617EC4200396BD0 /* LearningGHApp.swift in Sources */,
 			);
